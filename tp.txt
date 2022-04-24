@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 jkklll
 kkklll
+=======
+kkklll
+shikh
+sneha
+task is done
+>>>>>>> start
