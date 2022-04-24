@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 jkklll
 kkklll
 =======
@@ -7,3 +8,7 @@ shikh
 sneha
 task is done
 >>>>>>> start
+=======
+This is the perfect code
+go for it
+>>>>>>> localtp
